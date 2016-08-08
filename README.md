@@ -372,4 +372,17 @@ print('The similarity between the original text - Genesis -  and the model is: '
 ---
 # 8. Analysis of the study results and conclusions
 ---
+In conclusion, we feel that this project helped us a lot in understanding the work of the Data Scientist.
+Require that we perform the following steps:
+- Selecting a data set.
+- Preprocessing phase.
+- Analysis of the information through - RNN.
+- Check similarity - attesting to the quality of the results.
 
+It was interesting to examine the biblical text with emphasis on writing style.
+You can see that the results actually were of a high similarity to original text.
+
+Deep learning requires many computing resources - CPU, GPU and a lot of memory.
+These resources are limiting the depth calculation that we could make,
+and if we had the necessary resources, we could add extra layers and additional iterations -
+things that would improve the results even more.
