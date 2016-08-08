@@ -19,6 +19,7 @@ Version: 64-bit Version
 **NUMPY**  
 **THEANO**  
 For using GPU : **NVIDIA Nsight HUD Launcher 4.7**
+  
 ---
 # 1. Choosing the data collection sequences
 ---
