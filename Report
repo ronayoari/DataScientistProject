@@ -535,6 +535,26 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+    "In conclusion, we feel that this project helped us a lot in understanding the work of the Data Scientist.\n",
+    "Require that we perform the following steps:\n",
+    "- Selecting a data set.\n",
+    "- Preprocessing phase.\n",
+    "- Analysis of the information through - RNN.\n",
+    "- Check similarity - attesting to the quality of the results.\n",
+    "\n",
+    "It was interesting to examine the biblical text with emphasis on writing style.\n",
+    "You can see that the results actually were of a high similarity to original text.\n",
+    "\n",
+    "Deep learning requires many computing resources - CPU, GPU and a lot of memory.\n",
+    "These resources are limiting the depth calculation that we could make,\n",
+    "and if we had the necessary resources, we could add extra layers and additional iterations -\n",
+    "things that would improve the results even more."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
     ""
    ]
   }
