@@ -7,6 +7,19 @@
 ***[Dataset](http://www.gutenberg.org/cache/epub/8001/pg8001.txt)***  
 
 ---
+The Code in python with RNN algorithm used to generate the data recovery model documented and explained in the ipython notebook: "Report".  
+
+# Installations:
+**Anaconda for Windows**  
+Windows 64-BIT  
+Anaconda Version: Anaconda 2  
+including Python 2.7  
+**NLTK**  
+Version: 64-bit Version
+**NUMPY**  
+**THEANO**  
+For using GPU : **NVIDIA Nsight HUD Launcher 4.7**
+---
 # 1. Choosing the data collection sequences
 ---
 ## - Collection of data that we have chosen for this project is:  
